@@ -1,0 +1,17 @@
+{
+  "name": "@myapp/package-a",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+
+  "dependencies": {
+    "@myapp/workspace-b": "1.0.0"
+  },
+
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
