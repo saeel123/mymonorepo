@@ -1,7 +1,21 @@
 {
-  "name": "root",
+  "name": "mydemo",
+  "version": "1.0.0",
   "private": true,
-  "devDependencies": {
-    "lerna": "^3.22.1"
-  }
+  "workspaces": ["workspace-a", "workspace-b"],
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saeel123/mymonorepo.git"
+  },
+  "author": "saeel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saeel123/mymonorepo/issues"
+  },
+  "homepage": "https://github.com/saeel123/mymonorepo#readme"
 }
