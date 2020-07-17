@@ -2,7 +2,7 @@
   "name": "mydemo",
   "version": "1.0.0",
   "private": true,
-  "workspaces": ["workspace-a", "workspace-b"],
+  "workspaces": ["apps/*", "packages/*"],
   "description": "",
   "main": "index.js",
   "scripts": {

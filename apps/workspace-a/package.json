@@ -8,7 +8,8 @@
   },
 
   "dependencies": {
-    "@myapp/workspace-a": "1.0.0"
+    "@myapp/workspace-a": "1.0.0",
+    "@myapp/package-a": "1.0.0"
   },
 
   "keywords": [],
