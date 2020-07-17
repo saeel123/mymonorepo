@@ -1,0 +1,17 @@
+{
+  "name": "@myapp/workspace-b",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+
+  "dependencies": {
+    "@myapp/workspace-b": "1.0.0"
+  },
+
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
