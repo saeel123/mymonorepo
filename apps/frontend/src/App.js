@@ -2,7 +2,20 @@ import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 
+import { User } from '@myapp/tspackage';
+
+import '@myapp/package-a';
+
+
+
+
 function App() {
+
+  const user: User = {
+    name: "saeel",
+    active: true
+  }
+
   return (
     <div className="App">
       <header className="App-header">
